@@ -13,6 +13,12 @@ Requirements
  * Converted *.pvr texture files (use [GXTConvert](https://github.com/xdanieldzd/GXTConvert))
  * Compatible files to view/export
 
+Screenshots
+===========
+![Screenshot 1](screenshots/screen1.png)
+![Screenshot 2](screenshots/screen2.png)
+![Screenshot 3](screenshots/screen3.png)
+ 
 Acknowledgements
 ================
 * Initial format notes by Toastline on [VG Resource](http://www.vg-resource.com/)
