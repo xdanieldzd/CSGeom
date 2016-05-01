@@ -1,6 +1,6 @@
 CSGeom
 ======
-CSGeom is an experimental model viewer and exporter for Digimon Story: Cyber Sleuth. It is written in C# and based on the .NET Framework.
+CSGeom is an experimental model viewer and exporter for .geom model files from Digimon Story: Cyber Sleuth. It is written in C# and based on the .NET Framework.
 
 Requirements
 ============
@@ -11,7 +11,7 @@ Requirements
  * Visual Studio Community 2013 (or higher)
 * Usage
  * Converted *.pvr texture files (use [GXTConvert](https://github.com/xdanieldzd/GXTConvert))
- * Compatible files to view/export
+ * *.geom files to view/export
 
 Screenshots
 ===========
