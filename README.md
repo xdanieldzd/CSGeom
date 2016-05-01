@@ -5,7 +5,7 @@ CSGeom is an experimental model viewer and exporter for Digimon Story: Cyber Sle
 Requirements
 ============
 * General
- * [.NET Framework 4.5](http://www.microsoft.com/en-US/download/details.aspx?id=17718)
+ * [.NET Framework 4.5](http://www.microsoft.com/en-US/download/details.aspx?id=30653)
 * Compilation
  * Cobalt (OpenGL helper library; source code not yet available, sorry!)
  * Visual Studio Community 2013 (or higher)
